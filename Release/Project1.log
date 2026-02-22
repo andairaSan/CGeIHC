@@ -1,0 +1,20 @@
+﻿  Mesh.cpp
+  Shader.cpp
+C:\Users\andai\Downloads\opengl 3.3 y dos main\Shader.cpp(121,24): warning C4267: '=': conversión de 'size_t' a 'GLint'; posible pérdida de datos
+  Window.cpp
+C:\Users\andai\Downloads\opengl 3.3 y dos main\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "../../../../../Downloads/opengl%203.3%20y%20dos%20main/Window.cpp")
+  
+C:\Users\andai\Downloads\opengl 3.3 y dos main\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "../../../../../Downloads/opengl%203.3%20y%20dos%20main/Window.cpp")
+  
+  segundo_main.cpp
+C:\Users\andai\OneDrive\Desktop\Grafica\Project1\Project1\segundo_main.cpp(161,24): warning C4267: '=': conversión de 'size_t' a 'GLint'; posible pérdida de datos
+C:\Users\andai\OneDrive\Desktop\Grafica\Project1\Project1\segundo_main.cpp(281,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código
+  Previous IPDB not found, fall back to full compilation.
+  All 140 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  Project1.vcxproj -> C:\Users\andai\OneDrive\Desktop\Grafica\Project1\x64\Release\Project1.exe
+  "pwsh.exe" no se reconoce como un comando interno o externo,
+  programa o archivo por lotes ejecutable.
