@@ -1,0 +1,2162 @@
+
+Teclas para uso de Keyframes:
+1.-Presionar barra espaciadora para reproducir animacion.
+2.-Presionar 0 para volver a habilitar reproduccion de la animacion
+3.-Presiona L para guardar frame
+4.-Presiona P para habilitar guardar nuevo frame
+5.-Presiona 1 para mover en X
+6.-Presiona 2 para habilitar mover en XmovAvion_x es: -1.000000
+giroAvion es: 45.000000
+movAvion_y es: -2.000000
+frameindex 6
+movAvion_x es: -1.000000
+movAvion_y es: -2.000000
+presiona P para habilitar guardar otro frame'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+movAvion_x es: -2.000000
+giroAvion es: 90.000000
+movAvion_y es: 0.000000
+frameindex 7
+movAvion_x es: -2.000000
+movAvion_y es: 0.000000
+presiona P para habilitar guardar otro frame'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+movAvion_x es: -3.000000
+giroAvion es: 135.000000
+movAvion_y es: -2.000000
+frameindex 8
+movAvion_x es: -3.000000
+movAvion_y es: -2.000000
+presiona P para habilitar guardar otro frame'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+movAvion_x es: -4.000000
+giroAvion es: 180.000000
+movAvion_y es: 0.000000
+frameindex 9
+movAvion_x es: -4.000000
+movAvion_y es: 0.000000
+presiona P para habilitar guardar otro frame'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+movAvion_x es: -5.000000
+giroAvion es: 225.000000
+movAvion_y es: -2.000000
+frameindex 10
+movAvion_x es: -5.000000
+movAvion_y es: -2.000000
+presiona P para habilitar guardar otro frame'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+movAvion_x es: -6.000000
+giroAvion es: 270.000000
+movAvion_y es: 0.000000
+frameindex 11
+movAvion_x es: -6.000000
+movAvion_y es: 0.000000
+presiona P para habilitar guardar otro frame'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+movAvion_x es: -7.000000
+giroAvion es: 315.000000
+movAvion_y es: -2.000000
+frameindex 12
+movAvion_x es: -7.000000
+movAvion_y es: -2.000000
+presiona P para habilitar guardar otro frame'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+movAvion_x es: -8.000000
+giroAvion es: 360.000000
+movAvion_y es: 0.000000
+frameindex 13
+movAvion_x es: -8.000000
+movAvion_y es: 0.000000
+presiona P para habilitar guardar otro frame'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+movAvion_x es: -9.000000
+giroAvion es: 405.000000
+movAvion_y es: -2.000000
+frameindex 14
+movAvion_x es: -9.000000
+movAvion_y es: -2.000000
+presiona P para habilitar guardar otro frame'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+movAvion_x es: -10.000000
+giroAvion es: 450.000000
+movAvion_y es: 0.000000
+frameindex 15
+movAvion_x es: -10.000000
+movAvion_y es: 0.000000
+presiona P para habilitar guardar otro frame'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+giroAvion es: 495.000000
+movAvion_y es: -2.000000
+movAvion_x es: -9.000000
+frameindex 16
+movAvion_x es: -9.000000
+movAvion_y es: -2.000000
+presiona P para habilitar guardar otro frame'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+movAvion_x es: -8.000000
+giroAvion es: 540.000000
+movAvion_y es: 0.000000
+frameindex 17
+movAvion_x es: -8.000000
+movAvion_y es: 0.000000
+presiona P para habilitar guardar otro frame'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+movAvion_x es: -7.000000
+giroAvion es: 585.000000
+movAvion_y es: -2.000000
+frameindex 18
+movAvion_x es: -7.000000
+movAvion_y es: -2.000000
+presiona P para habilitar guardar otro frame'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+movAvion_x es: -6.000000
+giroAvion es: 630.000000
+movAvion_y es: 0.000000
+frameindex 19
+movAvion_x es: -6.000000
+movAvion_y es: 0.000000
+presiona P para habilitar guardar otro frame'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+movAvion_x es: -5.000000
+giroAvion es: 675.000000
+movAvion_y es: -2.000000
+frameindex 20
+movAvion_x es: -5.000000
+movAvion_y es: -2.000000
+presiona P para habilitar guardar otro frame'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+movAvion_x es: -4.000000
+giroAvion es: 720.000000
+movAvion_y es: 0.000000
+frameindex 21
+movAvion_x es: -4.000000
+movAvion_y es: 0.000000
+presiona P para habilitar guardar otro frame'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+movAvion_x es: -3.000000
+giroAvion es: 765.000000
+movAvion_y es: -2.000000
+frameindex 22
+movAvion_x es: -3.000000
+movAvion_y es: -2.000000
+presiona P para habilitar guardar otro frame'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+movAvion_x es: -2.000000
+giroAvion es: 810.000000
+movAvion_y es: 0.000000
+frameindex 23
+movAvion_x es: -2.000000
+movAvion_y es: 0.000000
+presiona P para habilitar guardar otro frame'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+movAvion_x es: -1.000000
+giroAvion es: 855.000000
+movAvion_y es: -2.000000
+frameindex 24
+movAvion_x es: -1.000000
+movAvion_y es: -2.000000
+presiona P para habilitar guardar otro frame'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+movAvion_x es: 0.000000
+giroAvion es: 900.000000
+movAvion_y es: 0.000000
+frameindex 25
+movAvion_x es: 0.000000
+movAvion_y es: 0.000000
+presiona P para habilitar guardar otro frame'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Ya puedes guardar otro frame presionando la tecla L'
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+Movimientos habilitados (Ya puedes usar 1, 2, 3, 4 y 5 de nuevo)
+presiona 0 para habilitar reproducir de nuevo la animaci¾n'
+playindex : 1
+playindex : 2
+playindex : 3
+playindex : 4
+playindex : 5
+playindex : 6
+playindex : 7
+playindex : 8
+playindex : 9
+playindex : 10
+playindex : 11
+playindex : 12
+playindex : 13
+playindex : 14
+playindex : 15
+playindex : 16
+playindex : 17
+playindex : 18
+playindex : 19
+playindex : 20
+playindex : 21
+playindex : 22
+playindex : 23
+playindex : 24
+playindex : 25
+Frame index= 26
+termina anim
