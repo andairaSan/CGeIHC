@@ -1,0 +1,32 @@
+# Blender 5.0.1 MTL File: 'correccionHermione.blend'
+# www.blender.org
+
+newmtl material_1.002
+Ns 50.000011
+Ka 0.200000 0.200000 0.200000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd HP3Hermione_Cloak.png
+
+newmtl material_3.002
+Ns 50.000011
+Ka 0.200000 0.200000 0.200000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd HP3Hermione_Cloak.png
+
+newmtl material_7.002
+Ns 50.000011
+Ka 0.200000 0.200000 0.200000
+Ks 1.000000 1.000000 1.000000
+Ke 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 3
+map_Kd HP3Gen_handsWhite.png

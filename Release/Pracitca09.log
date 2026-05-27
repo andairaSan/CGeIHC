@@ -1,0 +1,17 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(538,5): warning MSB8028: El directorio intermedio (x64\Release\) contiene archivos compartidos de otro proyecto (Practica07.vcxproj). Esto puede dar lugar a un comportamiento incorrecto de limpieza y recompilación.
+  E10_318307866.cpp
+C:\Users\Abraham\Documents\UNI\CGrafica\Pracitca09\Pracitca09\Window.h(17,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "E10_318307866.cpp")
+  
+C:\Users\Abraham\Documents\UNI\CGrafica\Pracitca09\Pracitca09\Window.h(18,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "E10_318307866.cpp")
+  
+C:\Users\Abraham\Documents\UNI\CGrafica\Pracitca09\Pracitca09\E10_318307866.cpp(161,30): warning C4267: 'inicializando': conversión de 'size_t' a 'unsigned int'; posible pérdida de datos
+C:\Users\Abraham\Documents\UNI\CGrafica\Pracitca09\Pracitca09\E10_318307866.cpp(615,27): warning C4244: '=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\Abraham\Documents\UNI\CGrafica\Pracitca09\Pracitca09\E10_318307866.cpp(619,21): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Generando código
+  0 of 1110 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    7 functions had inline decision re-evaluated but remain unchanged
+  Generación de código finalizada
+  Pracitca09.vcxproj -> C:\Users\Abraham\Documents\UNI\CGrafica\Pracitca09\x64\Release\Pracitca09.exe
